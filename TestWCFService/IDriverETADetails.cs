@@ -1,5 +1,5 @@
-﻿using System.Collections.Generic;
-#region Namespaces
+﻿#region Namespaces
+using System.Collections.Generic;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using TestWCFService.BusinessObjects;
